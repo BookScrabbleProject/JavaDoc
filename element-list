@@ -1,0 +1,9 @@
+module:com.example.bookscrabbleapp
+General
+Model
+Model.gameClasses
+Model.tests
+View
+View.bookscrabbleapp
+ViewModel
+ViewModel.tests
